@@ -1,14 +1,14 @@
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
+# Libras-Development---Sprint3---Arduino
 
 # Nome do projeto
 
-**nome dos alunos:** 
+**nome dos alunos:RM 85225 - Carlos Eduardo Hayashi
+RM 85169 - Larissah Silva
+RM 85455 - Mike Freire
 
-**Turma:**
+**Turma:2TDS-F
 
-**Ano:**
+**Ano: 2° Ano
 
 ## Objetivo / descrição do Projeto
 
