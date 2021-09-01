@@ -16,33 +16,16 @@ RM 85455 - Mike Freire
 
 Realizar o estoque de compras com um arduino.
 
-## Diagrama do projeto
-
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
-<img src="/imagem.jpg" width="550">
-
-
 ## Como usar 
 
 Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+* Programas utilizados: ArduinoIDE e SimulIDE
+* 
 
 Ou qualquer outra tabulação:
 
 - [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
 
 ## Link de vídeo demonstração
 
@@ -55,3 +38,6 @@ Adicione o link para assistir ao vídeo do projeto funcionando.
 
 * [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
 * [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* Aulas do professor Arnaldo Alves Viana Júnior (Disruptive Architectures IOT e IA)
+* 
+
