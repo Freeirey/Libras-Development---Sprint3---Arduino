@@ -2,7 +2,7 @@
 
 # Nome do projeto
 
-**nome dos alunos:RM 85225 - Carlos Eduardo Hayashi
+**nome dos alunos: RM 85225 - Carlos Eduardo Hayashi
 
 RM 85169 - Larissah Silva
 
@@ -14,7 +14,7 @@ RM 85455 - Mike Freire
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Realizar o estoque de compras com um arduino.
 
 ## Diagrama do projeto
 
