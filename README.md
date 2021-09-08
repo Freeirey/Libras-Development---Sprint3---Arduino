@@ -30,7 +30,7 @@ Ou qualquer outra tabulação:
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/NRmO51k0vuQ)
 
 
 ### Referências 
