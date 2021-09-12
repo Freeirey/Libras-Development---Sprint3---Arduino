@@ -1,4 +1,4 @@
-# Libras-Development---Sprint3---Arduino
+# Libras-Development---Sprint3
 
 # Smart Inventory
 
