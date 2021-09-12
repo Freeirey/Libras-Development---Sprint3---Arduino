@@ -1,8 +1,10 @@
 # Libras-Development---Sprint3---Arduino
 
-# Nome do projeto
+# Smart Inventory
 
-**nome dos alunos: RM 85225 - Carlos Eduardo Hayashi
+**nome dos alunos: 
+
+RM 85225 - Carlos Eduardo Hayashi
 
 RM 85169 - Larissah Silva
 
@@ -14,21 +16,14 @@ RM 85455 - Mike Freire
 
 ## Objetivo / descrição do Projeto
 
-Realizar o estoque de compras com um arduino.
-
-## Como usar 
-
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Programas utilizados: ArduinoIDE e SimulIDE
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
+A Smart Inventory é um aplicativo que tem como finalidade fazer com que as famílias consigam monitorar 
+o estoque de alimentos que ficam nos armários através de sensores presentes nos armários que controlaram 
+a quantidade de cada produto toda vez que um deles é retirado ou adicionado no armário, para facilitar a 
+identificação do produto a raspberry irá identificar cada produto, assim que o sensor escanear o QR Code 
+presente na embalagem. Além de fornecer uma certa organização para quem utiliza o software o aplicativo 
+fará a criação automática de listas dos produtos que estão em menor quantidade no estoque.
 
 ## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
 
 [Link para o video youtube](https://youtu.be/NRmO51k0vuQ)
 
